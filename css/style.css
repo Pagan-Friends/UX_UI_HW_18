@@ -59,6 +59,7 @@ p{
     height: auto;
 }
 
-.container markething{
-    
+.contatiner{
+    display: flex;
+    justify-content: space-between;   
 }
